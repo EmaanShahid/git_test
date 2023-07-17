@@ -1,0 +1,10 @@
+we are on a new branch now
+for merging:
+1. go to master(git checkout master)
+2. then merge (git merge new_branch)
+
+//connecting local to remote repositoty
+but, first change master to main as per new guidelines(git branch -M main)
+1. git remote add origin paste url
+push into origin(git push -u origin main)
+ blah blah 
