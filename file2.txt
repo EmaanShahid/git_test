@@ -8,3 +8,5 @@ but, first change master to main as per new guidelines(git branch -M main)
 1. git remote add origin paste url
 push into origin(git push -u origin main)
  blah blah 
+
+changes have been made , to push into git hub repositoty
