@@ -14,3 +14,4 @@ push into origin(git push -u origin main)
  3. for deleting a branch (git branch -D branch_name)
 
  * for creating a new branch  and automatically checkout it ( git checkout -b branch_name )
+   
