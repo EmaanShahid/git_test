@@ -1,3 +1,4 @@
 
 git
 to add new feature: git checkout new_branch
+create a pull req
